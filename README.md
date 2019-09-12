@@ -13,7 +13,7 @@ A computer and web browser with an active internet connection.
 
 ## Deployment
 
-* (https://umeadi.github.io/Group-Project-1/)
+* (https://frozen-dusk-90052.herokuapp.com/)
 
 ## Built With
 
